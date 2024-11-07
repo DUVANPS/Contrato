@@ -1,0 +1,52 @@
+
+ Contrato de Desarrollo de Software
+
+Entre:
+
+[Nombre del Cliente], con domicilio en [Dirección del Cliente], en adelante denominado “El Cliente”.
+
+Y:
+
+[Nombre del Desarrollador], con domicilio en [Dirección del Desarrollador], en adelante denominado “El Desarrollador”.
+
+1. Objeto del Contrato
+
+El Cliente contrata al Desarrollador para la creación, desarrollo, diseño e implementación de un software específico que cumpla con los requerimientos del Cliente, detallados en el Anexo A de este contrato.
+
+2. Plazos y Entregas
+
+El Desarrollador se compromete a entregar el software en las siguientes fases:
+
+Fase 1: [Descripción y Fecha de Entrega]
+Fase 2: [Descripción y Fecha de Entrega]
+Fase Final: [Descripción y Fecha de Entrega]
+3. Remuneración
+
+El Cliente pagará al Desarrollador la suma de [Monto] por los servicios prestados, de acuerdo con el siguiente calendario de pagos:
+
+Pago 1: [Monto y Fecha]
+Pago 2: [Monto y Fecha]
+Pago Final: [Monto y Fecha]
+4. Propiedad Intelectual
+
+El Desarrollador cede al Cliente todos los derechos de propiedad intelectual sobre el software desarrollado, una vez recibido el pago completo.
+
+5. Confidencialidad
+
+Ambas partes acuerdan mantener la confidencialidad de toda la información y documentación intercambiada durante la vigencia de este contrato.
+
+6. Resolución de Conflictos
+
+Cualquier disputa que surja en relación con este contrato será resuelta mediante [método de resolución de conflictos, por ejemplo, arbitraje o mediación].
+
+7. Duración del Contrato
+
+Este contrato tendrá una duración desde [Fecha de Inicio] hasta [Fecha de Finalización], salvo que se prorrogue por acuerdo mutuo de las partes.
+
+Firmas:
+
+[Nombre del Cliente]
+Fecha: [Fecha]
+
+[Nombre del Desarrollador]
+Fecha: [Fecha]
